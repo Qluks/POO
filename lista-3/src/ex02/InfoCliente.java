@@ -1,5 +1,5 @@
 package ex02;
 
-public class InfoCliente {
+public abstract class InfoCliente {
 
 }

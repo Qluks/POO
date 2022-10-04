@@ -7,10 +7,10 @@ public class Conta {
     private double limite;
     
     public Conta(String nomedocliente, double numerodaconta, double saldo, double limite) {
-        this.nomedocliente = nomedocliente;
-        this.numerodaconta = numerodaconta;
-        this.saldo = saldo;
-        this.limite = limite;
+        this.nomedocliente = nomedocliente = "Lucas";
+        this.numerodaconta = numerodaconta = 01234;
+        this.saldo = saldo = 2000;
+        this.limite = limite = 2500;
     }
 
     public void setNomedocliente(String nomedocliente) {

@@ -3,6 +3,7 @@ public class Cliente {
     String nome;
     String endereco;
     String valor;
+    InfoCliente infocliente;
 
     public Cliente (String nome, String endereco, String valor) {
         this.nome = nome;

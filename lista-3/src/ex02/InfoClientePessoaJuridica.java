@@ -1,5 +1,5 @@
 package ex02;
 
-public class InfoClientePessoaJuridica {
-
+public class InfoClientePessoaJuridica extends InfoCliente{
+	private String cnpj;
 }
